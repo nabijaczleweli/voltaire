@@ -1,0 +1,14 @@
+*
+!ext
+!ext/**
+!src
+!src/**
+!schematic
+!schematic/**
+!.git*
+!*.yml
+!*Makefile
+!*.sublime-project
+!LICENSE
+!gh_rsa.enc
+!README.md
